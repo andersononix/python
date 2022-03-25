@@ -5,7 +5,7 @@ nota3 = float(input('Digite a 3° nota: '))
 nota4 = float(input('Digite a 4° nota: '))
 
 media = (nota1 + nota2 + nota3 + nota4) / 4
-print('\nCauculo:')
+
 print('({} + {} + {} + {}) / 4' .format(nota1, nota2, nota3, nota4))
 print('{} / 4' .format(nota1 + nota2 + nota3 + nota4))
 print('{}' .format(media))
